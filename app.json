@@ -1,0 +1,35 @@
+{
+  "id": "e36d2051-948c-4c74-8965-b5682143f559",
+  "name": "PowerBIDashboards",
+  "publisher": "Rahul Bansode",
+  "version": "1.0.0.0",
+  "brief": "Multiple Power BI reports in a single dashboard",
+  "description": "This app allows the user to have multiple Power BI reports in a single dashboard",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [
+    "Screenshots/Dashboard.png",
+    "Screenshots/ReportExpanded.png"
+  ],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
